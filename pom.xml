@@ -7,7 +7,7 @@
     <groupId>com.orient.cssrc.collab</groupId>
     <artifactId>mvnvm</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1-RELEASE</version>
+    <version>1.0.2-RELEASE</version>
     <modules>
         <module>data</module>
         <module>flow</module>
